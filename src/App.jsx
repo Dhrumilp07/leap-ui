@@ -153,7 +153,7 @@ const bandTrendData = [
 
 
   const dailyTasks = [
-    { id: 1, title: "70s Masterclass: 'Not Given' Trap", duration: "2 Loops", type: "Reading", done: completedToday > 0, icon: <BookOpen size={18} /> },
+    { id: 1, title: "70s Masterclass: 'Fun and Learn", duration: "2 Loops", type: "Reading", done: completedToday > 0, icon: <BookOpen size={18} /> },
     { id: 2, title: "Common Mistake: Subject-Verb", duration: "3m", type: "Writing", done: completedToday > 1, icon: <Zap size={18} /> },
     { id: 3, title: "Speaking: Daily Prompt", duration: "5m", type: "Speaking", done: completedToday > 2, icon: <PlayCircle size={18} /> }
   ];
