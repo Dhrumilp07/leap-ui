@@ -1,10 +1,3 @@
-Perfect — you want the **same clean, official Vite README style**, but rewritten **properly for your Leap UI project**, not marketing-heavy, not messy.
-
-Here is the **entire README in exactly that format and tone** 👇
-You can **replace your current README.md fully with this**.
-
----
-
 ````md
 # Leap UI – React + Vite
 
